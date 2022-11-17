@@ -1,0 +1,16 @@
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\bin\Debug\GerenciadorDeOvni.exe.config
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\bin\Debug\GerenciadorDeOvni.exe
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\bin\Debug\GerenciadorDeOvni.pdb
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\bin\Debug\BibliotecaOVNI.dll
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\bin\Debug\BibliotecaOVNI.pdb
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.csproj.AssemblyReference.cache
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.Form1.resources
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.Gerenciador.resources
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.Inicializador.resources
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.Properties.Resources.resources
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.csproj.GenerateResource.cache
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.csproj.CoreCompileInputs.cache
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.csproj.CopyComplete
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.exe
+C:\Users\ivan.lojunior\source\repos\GerenciadorDeOvni\GerenciadorDeOvni\obj\Debug\GerenciadorDeOvni.pdb
